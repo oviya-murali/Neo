@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Large datasets
+recommender/spotify-tracks-dataset-detailed.csv
+recommender/Hot 100 Audio Features.csv
+recommender/Hot Stuff.csv
+recommender/artists.csv
+recommender/dict_artists.json
+recommender/tracks.csv
+
+# Node
+client/node_modules/
+client/dist/
+
+# Environment variables
+.env
+*.env
+
+# VS Code
+.vscode/
