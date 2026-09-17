@@ -6,7 +6,7 @@ Instead of simply recommending more songs from artists a user already listens to
 
 ---
 
-## 🚀 What Neo Does
+##  What Neo Does
 
 Given a playlist of songs and artists, Neo:
 
